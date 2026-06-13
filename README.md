@@ -7,7 +7,7 @@
 ![QA hints](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2FWorldHealthOrganization.github.io%2Fsmart-ig-empty%2Fqa.json&query=%24.hints&logoColor=yellow&label=QA%20hints&color=yellow)
 <!--/badges-->
 
-# WHO SMART GUIDELINES - EMPTY IG
+# WHO SMART GUIDELINES - HIV Ethiopia Test IG
 
 This is an HIV-Ethiopia framework, to be used to create SMART Implementation Guides.
 
