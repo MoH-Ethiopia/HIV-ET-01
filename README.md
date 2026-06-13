@@ -9,11 +9,12 @@
 
 # WHO SMART GUIDELINES - EMPTY IG
 
-This is an empty framework, to be used to create SMART Implementation Guides.
+This is an HIV-Ethiopia framework, to be used to create SMART Implementation Guides.
 
 CI Build: 
-* http://build.fhir.org/ig/{owner}/{repo}
-* http://{owner}.github.io/{repo}
+* http://build.fhir.org/ig/MoH-Ethiopia/HIV-ET-01
+* http://MoH-Ethiopia.github.io/HIV-ET-01
+
 
 
 Please see these [instructions](https://smart.who.int/ig-starter-kit/ig_setup.html#github-setup)
